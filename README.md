@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<p align="center">
+	<img  src="./assets/temp-preview.gif" alt="meh"/>
+</p>
 
 <!--
 **rynortheast/rynortheast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
