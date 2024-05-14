@@ -6,7 +6,7 @@
 	<img  src="./assets/temp-preview.gif" alt="meh" height="100"/>
 </p>
 
-## Love working with 🤔
+## Love Working With 🤔
 
 <p align="center">
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -22,7 +22,7 @@
 	<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
 </p>
 
-## My progress 😒
+## My Stats 😒
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rynortheast&show_icons=true&theme=dark&hide_border=true&hide=contribs,prs" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynortheast&layout=compact&theme=dark&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
